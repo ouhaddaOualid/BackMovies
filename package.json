@@ -13,5 +13,5 @@
     "express": "^4.18.2",
     "node-dev": "^7.4.3"
   },
-  "engines": { "node": "x.x.x", "npm": "x.x.x" }
+  "engines": { "node": "17.0.1", "npm": "8.19.2" }
 }
